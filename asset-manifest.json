@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Seema111/test..github.io.git/static/css/main.073c9b0a.css",
-    "main.js": "/Seema111/test..github.io.git/static/js/main.611ee70f.js",
-    "static/js/787.b82b11b6.chunk.js": "/Seema111/test..github.io.git/static/js/787.b82b11b6.chunk.js",
-    "index.html": "/Seema111/test..github.io.git/index.html",
-    "main.073c9b0a.css.map": "/Seema111/test..github.io.git/static/css/main.073c9b0a.css.map",
-    "main.611ee70f.js.map": "/Seema111/test..github.io.git/static/js/main.611ee70f.js.map",
-    "787.b82b11b6.chunk.js.map": "/Seema111/test..github.io.git/static/js/787.b82b11b6.chunk.js.map"
+    "main.css": "/Seema111/test/static/css/main.073c9b0a.css",
+    "main.js": "/Seema111/test/static/js/main.f2e8c37d.js",
+    "static/js/787.b82b11b6.chunk.js": "/Seema111/test/static/js/787.b82b11b6.chunk.js",
+    "index.html": "/Seema111/test/index.html",
+    "main.073c9b0a.css.map": "/Seema111/test/static/css/main.073c9b0a.css.map",
+    "main.f2e8c37d.js.map": "/Seema111/test/static/js/main.f2e8c37d.js.map",
+    "787.b82b11b6.chunk.js.map": "/Seema111/test/static/js/787.b82b11b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.611ee70f.js"
+    "static/js/main.f2e8c37d.js"
   ]
 }
